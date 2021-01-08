@@ -9,6 +9,7 @@
 ---
 
 > Second, login and on your dashboard you can add a new picture by clicking the top left corner that has an image icon
+![alt-text](https://github.com/ricardo-ljr/Shopify-Backend-Challenge/blob/main/upload-img.png)
 
 ---
 
