@@ -1,6 +1,6 @@
 # Shopify-Backend-Challenge
 
-[Deployed Website](https://photos.ricardol.com/)
+## Deployed Website: [Photo Bomb](https://photos.ricardol.com/)
 
 > First, create an account
 
